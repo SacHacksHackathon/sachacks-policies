@@ -1,2 +1,2 @@
-# sachacks-policies
-SacHacks Official Policies
+# SacHacks Policies
+-   [Code of Conduct](code-of-conduct.md)
